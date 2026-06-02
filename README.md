@@ -50,8 +50,7 @@ I'm **AIBEL SAJU**, an M.Sc. Statistics graduate specializing in Data Analytics,
 
 ## Certifications & Technical Training
 
-![Data Scientist Python](https://img.shields.io/badge/ASSOCIATE_DATA_SCIENTIST_IN_PYTHON-00E676?style=for-the-badge) ![Intermediate Python](https://img.shields.io/badge/INTERMEDIATE_PYTHON-00E676?style=for-the-badge)
-![Python Developer](https://img.shields.io/badge/INTERMEDIATE_PYTHON_FOR_DEVELOPERS-00E676?style=for-the-badge) ![Python Finance](https://img.shields.io/badge/PYTHON_IN_FINANCE-00E676?style=for-the-badge) ![R Programming](https://img.shields.io/badge/R_PROGRAMMING-00E676?style=for-the-badge) ![Power BI Cert](https://img.shields.io/badge/POWER_BI-00E676?style=for-the-badge)
+![Intermediate Python](https://img.shields.io/badge/INTERMEDIATE_PYTHON-00E676?style=for-the-badge) ![Python Developer](https://img.shields.io/badge/INTERMEDIATE_PYTHON_FOR_DEVELOPERS-00E676?style=for-the-badge) ![Python Finance](https://img.shields.io/badge/PYTHON_IN_FINANCE-00E676?style=for-the-badge) ![R Programming](https://img.shields.io/badge/R_PROGRAMMING-00E676?style=for-the-badge) ![Power BI Cert](https://img.shields.io/badge/POWER_BI-00E676?style=for-the-badge)
 ![SAS Cert](https://img.shields.io/badge/SAS_PROGRAMMER_--_CERTIFIED-708090?style=for-the-badge) ![Data Science Analytics](https://img.shields.io/badge/DATA_SCIENCE_%26_ANALYTICS-29B6F6?style=for-the-badge) ![SAP Intro](https://img.shields.io/badge/INTRODUCTION_TO_SAP-29B6F6?style=for-the-badge)
 ![Google Cloud Data](https://img.shields.io/badge/GOOGLE_CLOUD_DATA_ANALYTICS-1E88E5?style=for-the-badge&logo=googlecloud&logoColor=white) ![Google Cloud AI](https://img.shields.io/badge/GOOGLE_CLOUD_GENERATIVE_AI-4CAF50?style=for-the-badge&logo=googlecloud&logoColor=white) ![AI Concepts](https://img.shields.io/badge/AI_CONCEPTS-1E88E5?style=for-the-badge) ![Machine Learning](https://img.shields.io/badge/MACHINE_LEARNING-1E88E5?style=for-the-badge)
 ![Knowledge Mining](https://img.shields.io/badge/KNOWLEDGE_MINING_%26_AI_SEARCH-1E88E5?style=for-the-badge) ![OCR](https://img.shields.io/badge/OPTICAL_CHARACTER_RECOGNITION-1E88E5?style=for-the-badge) ![Computer Vision](https://img.shields.io/badge/COMPUTER_VISION-1E88E5?style=for-the-badge) ![Azure AI Services](https://img.shields.io/badge/AZURE_AI_SERVICES-1E88E5?style=for-the-badge)
@@ -65,8 +64,8 @@ I'm **AIBEL SAJU**, an M.Sc. Statistics graduate specializing in Data Analytics,
 
 | Project | Description |
 | :--- | :--- |
+| **[Multivariate Risk Assessment](https://github.com/AibelSaju/Multivariate-Risk-Assessment)** | Performed time series analysis and statistical modeling on hydro-climatic datasets to identify risk patterns. |
 | **Urban Mobility & Congestion Dashboard** | Built interactive Power BI dashboards with KPI reporting and visual analytics for global traffic congestion trends. |
-| **Multivariate Risk Assessment** | Performed time series analysis and statistical modeling on hydro-climatic datasets to identify risk patterns. |
 | **Time Series & Cointegration Study** | Applied ADF tests and cointegration techniques to identify long-run trends in exchange rate datasets. |
 | **Statistical Auditing of Institutional Data** | Conducted a detailed data audit of institutional NIRF reports to safeguard data integrity and verify variances. |
 
@@ -82,9 +81,7 @@ I'm **AIBEL SAJU**, an M.Sc. Statistics graduate specializing in Data Analytics,
 * Business Intelligence
 * Data Visualization
 
----
-
-## 📬 Contact
+--- ## 📬 Contact
 * **Email:** aibelsaju1043@gmail.com
 * **LinkedIn:** [linkedin.com/in/aibel-saju-31550a2ab](https://www.linkedin.com/in/aibel-saju-31550a2ab)
 * **Location:** Thodupuzha, Kerala, India
