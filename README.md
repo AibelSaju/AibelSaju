@@ -37,7 +37,7 @@ I'm **AIBEL SAJU**, an M.Sc. Statistics graduate specializing in Data Analytics,
 ## Internship Experience
 
 ### 📈 Intern | Centre for Budget Studies, CUSAT
-**May 2026 – Present**
+**June 2026 – July 2026**
 
 ### 🏥 SAS Clinical Programming Intern | IQVIA
 **Jan 2026 – Mar 2026**
